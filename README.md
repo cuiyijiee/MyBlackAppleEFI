@@ -1,6 +1,12 @@
 # MyBlackAppleEFI
 我的黑苹果Clover EFI配置
 
+# 主板设置
+更新了最新bios(version:2012)的主板需要前往bios中更改
+```
+Advanced->Advanced PCH Configuration->system time and alarm source->Legacy RTC
+```
+
 # 配置如下
 
 | 项目        | 配置   |
@@ -19,4 +25,4 @@
 - [x] USB3.1完美
 
 # BUG
-- [ ] 有时启动没有声音，待查明原因
+- [x] 有时启动没有声音，待查明原因(已解决)
