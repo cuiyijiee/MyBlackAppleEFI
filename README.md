@@ -23,6 +23,8 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 - [x] 声卡（有声音，可使用siri）
 - [x] 使用独显后无法使用预览查看JPG图片
 - [x] USB3.1完美
+- [x] 完美睡眠唤醒
+- [x] 可登陆icloud，app store正常
 
 # BUG
 - [x] 有时启动没有声音，待查明原因(已解决)
