@@ -4,7 +4,7 @@
 # 主板设置
 更新了最新bios(version:2012)的主板需要前往bios中更改
 ```
-Advanced->Advanced PCH Configuration->system time and alarm source->Legacy RTC
+Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy RTC
 ```
 
 # 配置如下
