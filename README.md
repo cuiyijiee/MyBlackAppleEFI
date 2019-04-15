@@ -15,9 +15,11 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 | 项目        | 配置   |
 | --------   | :-----  |
 | CPU     | 英特尔（Intel）i5-9600K | 
+|内存|美商海盗船复仇者8G DDR4 2666 X2|
 | 主板        |   华硕（ASUS）TUF B360M-PLUS GAMING S   | 
 | 显卡        |    蓝宝石RX470 4G DDR5超白金（闲鱼入的锻炼卡）    | 
 | 硬盘        |    惠普（HP） EX900系列 250G M.2 NVMe SSD    | 
+|无线网卡|BCM94360CS2 (免驱WIFI和蓝牙)|
 
 # 问题解决
 
