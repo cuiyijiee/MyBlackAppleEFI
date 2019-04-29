@@ -37,4 +37,4 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 - [x] 可登陆icloud，app store正常
 
 # BUG
-- [x] 有时启动没有声音，待查明原因(已解决)
+- [x] 有时启动没有声音，待查明原因(已解决,更新了声卡驱动)
