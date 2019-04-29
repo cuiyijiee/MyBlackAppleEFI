@@ -7,6 +7,11 @@
 # 主板设置
 更新了最新bios(version:2012)的主板需要前往bios中更改
 ```
+Advanced —> Onboard Devices Configuration-Serial Port Configuration Serial Port —> Off
+Advanced —> USB Configuration-XHCI Hand-off —> Enabled
+Secure Boot -> OS Type -> Other OS
+Advanced —> PCH configuration-IOAPIC 24-119 Entries —> disabled
+CFG-LOCK -> disabled
 Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy RTC
 ```
 
