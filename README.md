@@ -35,6 +35,7 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 - [x] USB3.1完美
 - [x] 完美睡眠唤醒
 - [x] 可登陆icloud，app store正常
+- [x] 已经完美更新到`mojave10.14.5`
 
 # BUG
 - [x] 有时启动没有声音，待查明原因(已解决,更新了声卡驱动)
