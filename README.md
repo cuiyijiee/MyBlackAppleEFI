@@ -39,3 +39,9 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 
 # BUG
 - [x] 有时启动没有声音，待查明原因(已解决,更新了声卡驱动)
+
+# 截图展示
+## 10.14.5
+!(10.14.5)[screenshots/WX20190724-214915.png]
+## 10.14.6
+!(10.14.6)[screenshots/WX20190724-220055.png]
