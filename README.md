@@ -42,6 +42,6 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 
 # 截图展示
 ## 10.14.5
-!(10.14.5)[screenshots/WX20190724-214915.png]
+![10.14.5](screenshots/WX20190724-214915.png)
 ## 10.14.6
-!(10.14.6)[screenshots/WX20190724-220055.png]
+![10.14.6](screenshots/WX20190724-220055.png)
