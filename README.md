@@ -41,12 +41,13 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 - [x] 有时启动没有声音，待查明原因(已解决,更新了声卡驱动)
 
 # 截图展示
-## 10.14.5
-![10.14.5](screenshots/WX20190724-214915.png)
-## 10.14.6
-![10.14.6](screenshots/WX20190724-220055.png)
-## 10.15
-![10.15](screenshots/WX20191119-220110.png)
 ## 10.15.1
 升级到10.15.1需要将`WhateverGreen`更新到`V1.3.4`，否则会黑屏。[详情链接](https://osx.cx/whatevergreen-kext-amd.html)
 ![10.15.1](screenshots/WX20191119-222840.png)
+## 10.15
+![10.15](screenshots/WX20191119-220110.png)
+## 10.14.6
+![10.14.6](screenshots/WX20190724-220055.png)
+## 10.14.5
+![10.14.5](screenshots/WX20190724-214915.png)
+
