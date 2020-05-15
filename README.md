@@ -19,12 +19,15 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 
 | 项目        | 配置   |
 | --------   | :-----  |
-| CPU         | 英特尔（Intel）i5-9600K | 
+| CPU        |英特尔（Intel）i5-9600K | 
 |内存         |美商海盗船（CORSAIR） 复仇者8G DDR4 2666 X2|
-| 主板        |   华硕（ASUS）TUF B360M-PLUS GAMING S   | 
-| 显卡        |    蓝宝石（SAPPHIRE）RX470 4G DDR5超白金（闲鱼入的锻炼卡）    | 
-| 硬盘        |    惠普（HP） EX900系列 250G M.2 NVMe SSD    | 
-|无线网卡|BCM94360CS2 (免驱WIFI和蓝牙)|
+| 主板        |华硕（ASUS）TUF B360M-PLUS GAMING S   | 
+| 显卡        |蓝宝石（SAPPHIRE）RX470 4G DDR5超白金（闲鱼入的锻炼卡）    | 
+| 硬盘        |惠普（HP） EX900系列 250G M.2 NVMe SSD    | 
+|无线网卡      |BCM94360CS2 (免驱WIFI和蓝牙)|
+
+# 桌面展示
+<img src="screenshots/41589552231_.pic_hd.jpg" width="200" height="200" />
 
 # 问题解决
 
@@ -35,12 +38,12 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 - [x] USB3.1完美
 - [x] 完美睡眠唤醒
 - [x] 可登陆icloud，app store正常
-- [x] 已经完美更新到`mojave10.14.5`
-
-# BUG
-- [x] 有时启动没有声音，待查明原因(已解决,更新了声卡驱动)
+- [x] 可以更新到最新macOS版本
 
 # 截图展示
+
+## 10.15.4
+![10.15.4](screenshots/WX20200515-221048.png)
 ## 10.15.1
 升级到10.15.1需要将`WhateverGreen`更新到`V1.3.4`，否则会黑屏。[详情链接](https://osx.cx/whatevergreen-kext-amd.html)
 ![10.15.1](screenshots/WX20191119-222840.png)
@@ -50,4 +53,7 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 ![10.14.6](screenshots/WX20190724-220055.png)
 ## 10.14.5
 ![10.14.5](screenshots/WX20190724-214915.png)
+
+# 更新记录
+## 2020.5.15
 
